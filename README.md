@@ -1,2 +1,2 @@
-# assets
-Various resources for something else.
+# Assets
+This is probably not the repository you are looking for...
