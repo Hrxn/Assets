@@ -1,3 +1,8 @@
+! Title: Hrxn's filter list
+! Expires: 7 days
+! Description: Some personal filters for uBlock, to be used with default filter list settings
+! Homepage: https://github.com/Hrxn/assets
+
 ! 1/16/2019 - https://sciurls.com/
 sciurls.com##.announcements.content.columns
 
