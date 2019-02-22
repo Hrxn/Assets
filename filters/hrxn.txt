@@ -22,6 +22,6 @@ techurls.com##footer
 sciurls.com##footer
 
 ! 1/16/2019 - https://www.google.com
-! www.google.com/search?hl=en&q=calculator###rhs_block
+www.google.com/search?newwindow=1&hl=en&source=hp&q=calculator###rhs_block
 
 ! ...
