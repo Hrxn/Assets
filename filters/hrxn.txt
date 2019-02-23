@@ -3,22 +3,23 @@
 ! Description: Some personal filters for uBO, to be used with default filter list settings
 ! Homepage: https://github.com/Hrxn/assets
 
+! 6/11/2018 - https://www.deviantart.com/whats-hot/
+deviantart.com##.ad-container
+
 ! 1/16/2019 - https://sciurls.com/
 sciurls.com##.announcements.content.columns
+sciurls.com##footer
 
 ! 1/16/2019 - https://techurls.com/
 techurls.com##.announcements.content.columns
+techurls.com##footer
 
 ! 1/16/2019 - https://devurls.com/
 devurls.com##.announcements.content.columns
-
-! 1/16/2019 - https://devurls.com/
 devurls.com##footer
 
-! 1/16/2019 - https://techurls.com/
-techurls.com##footer
-
-! 1/16/2019 - https://sciurls.com/
-sciurls.com##footer
+! 2/20/2019 - https://pr0gramm.com
+pr0gramm.com###gpt-skyscraper-right
+pr0gramm.com###gpt-skyscraper-left
 
 ! END-OF-LIST
