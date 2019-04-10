@@ -22,4 +22,7 @@ devurls.com##footer
 pr0gramm.com###gpt-skyscraper-right
 pr0gramm.com###gpt-skyscraper-left
 
+! 4/4/2019 - https://www.artstation.com
+www.artstation.com##support-artstation-block
+
 ! END-OF-LIST
