@@ -1,11 +1,9 @@
 ! Title: Hrxn Filter List
-! Last Modified: 06:00 2019-04-10
 ! Expires: 7 Days
 ! Description: Some personal filters for uBO, to be used in conjunction with the default filter lists of uBO
 ! Homepage: https://github.com/Hrxn/assets
 ! Issues: https://github.com/Hrxn/assets/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
-! Copyright: 2018-2019 Hrxn
 
 ! 1/16/2019 - https://sciurls.com/
 sciurls.com##.announcements.content.columns
@@ -31,3 +29,4 @@ www.deviantart.com##.ad-container
 www.deviantart.com##.small.ad-container
 
 ! END-OF-LIST
+
