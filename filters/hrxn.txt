@@ -25,4 +25,8 @@ pr0gramm.com###gpt-skyscraper-left
 ! 4/4/2019 - https://www.artstation.com
 www.artstation.com##support-artstation-block
 
+! 4/4/2019 - https://www.deviantart.com
+www.deviantart.com##.ad-container
+www.deviantart.com##.small.ad-container
+
 ! END-OF-LIST
