@@ -28,5 +28,22 @@ www.artstation.com##support-artstation-block
 www.deviantart.com##.ad-container
 www.deviantart.com##.small.ad-container
 
+! 4/27/2019 - https://www.tvmaze.com
+www.tvmaze.com##.center.cell.small-3
+www.tvmaze.com##.center.cell.auto > .cinereus
+www.tvmaze.com##.cell.small-12 > .cinereus
+www.tvmaze.com##.blad-300x250
+
+! 4/27/2019 - https://www.werstreamt.es
+werstreamt.es##li.ueJf:nth-of-type(1)
+werstreamt.es##.sdfrK
+
+! 4/27/2019 - https://www.duden.de
+www.duden.de##.scene--style_default.scene
+www.duden.de##.essay--compact.essay
+www.duden.de##.tabloid__side-column-top
+www.duden.de##.tabloid__side-column
+www.duden.de##body:style(width: auto !important; padding: 0 !important; margin: 0 !important)
+
 ! END-OF-LIST
 
