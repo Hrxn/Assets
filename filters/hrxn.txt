@@ -45,5 +45,8 @@ duden.de##.tabloid__side-column-top
 duden.de##.tabloid__side-column
 duden.de##body:style(width: auto !important; padding: 0 !important; margin: 0 !important)
 
+! 4/28/2019 - https://www.reddit.com
+reddit.com##.premium-banner-outer
+
 ! END-OF-LIST
 
