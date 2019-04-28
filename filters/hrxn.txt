@@ -41,9 +41,7 @@ werstreamt.es##.sdfrK
 ! 4/27/2019 - https://www.duden.de
 duden.de##.scene--style_default.scene
 duden.de##.essay--compact.essay
-duden.de##.tabloid__side-column-top
-duden.de##.tabloid__side-column
-duden.de##body:style(width: auto !important; padding: 0 !important; margin: 0 !important)
+duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
 
 ! 4/28/2019 - https://www.reddit.com
 reddit.com##.premium-banner-outer
