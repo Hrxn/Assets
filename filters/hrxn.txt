@@ -1,5 +1,5 @@
 ! Title: Hrxn Filter List
-! Expires: 7 Days
+! Expires: 4 Days
 ! Description: Some personal filters for uBO, to be used in conjunction with the default filter lists of uBO
 ! Homepage: https://github.com/Hrxn/assets
 ! Issues: https://github.com/Hrxn/assets/issues
@@ -45,6 +45,12 @@ duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
 
 ! 4/28/2019 - https://www.reddit.com
 reddit.com##.premium-banner-outer
+
+! 5/6/2019 - https://liquipedia.net
+liquipedia.net###sidebar-ad
+
+! 5/8/2019 - https://www.leo.org
+leo.org###footerWWW
 
 ! END-OF-LIST
 
