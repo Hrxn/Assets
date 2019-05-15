@@ -60,7 +60,7 @@ sourceforge.net##li.can-truncate.standard.nel:nth-of-type(2)
 threadreaderapp.com##.sharingfooter
 
 ! 5/15/2019 - https://www.hltv.org
-hltv.org##body:style(background-color: #e5e7ea !important)
+hltv.org##body:style(background-color: #e5e7ea !important;)
 hltv.org##.logoCon
 
 ! END-OF-LIST
