@@ -63,5 +63,9 @@ threadreaderapp.com##.sharingfooter
 hltv.org##body:style(background-color: #e5e7ea !important;)
 hltv.org##.logoCon
 
+
+! 5/21/2019 - https://chromestatus.com
+chromestatus.com##footer
+
 ! END-OF-LIST
 
