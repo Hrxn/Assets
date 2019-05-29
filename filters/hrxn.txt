@@ -66,5 +66,8 @@ hltv.org##.logoCon
 ! 5/21/2019 - https://chromestatus.com
 chromestatus.com##footer
 
+! 5/29/2019 - https://lyrics.fandom.com
+fandom.com###WikiaBarWrapper
+
 ! END-OF-LIST
 
