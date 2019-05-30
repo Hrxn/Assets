@@ -1,6 +1,6 @@
 ! Title: Hrxn Filter List
 ! Expires: 4 Days
-! Description: Some personal filters for uBO, to be used in conjunction with the default filter lists of uBO
+! Description: Some personal filters for uBO, to be used in conjunction with the default filter lists of uBO.
 ! Homepage: https://github.com/Hrxn/assets
 ! Issues: https://github.com/Hrxn/assets/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
@@ -68,6 +68,9 @@ chromestatus.com##footer
 
 ! 5/29/2019 - https://lyrics.fandom.com
 fandom.com###WikiaBarWrapper
+
+! 5/30/2019 - https://vimeo.com
+vimeo.com##.show.dark.profile.iris_sticky-upsell
 
 ! END-OF-LIST
 
