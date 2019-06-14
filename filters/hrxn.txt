@@ -17,10 +17,6 @@ techurls.com##footer
 devurls.com##.announcements.content.columns
 devurls.com##footer
 
-! 2/20/2019 - https://pr0gramm.com
-pr0gramm.com###gpt-skyscraper-right
-pr0gramm.com###gpt-skyscraper-left
-
 ! 4/4/2019 - https://www.artstation.com
 artstation.com##support-artstation-block
 
