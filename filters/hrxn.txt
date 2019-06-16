@@ -71,5 +71,8 @@ vimeo.com##.show.dark.profile.iris_sticky-upsell
 ! 6/3/2019 - https://prettydiff.com
 prettydiff.com###headline
 
+! 6/16/2019 - https://liquipedia.net
+liquipedia.net##[href^="https://store.teamliquid.com/"]
+
 ! END-OF-LIST
 
