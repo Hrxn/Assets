@@ -47,6 +47,7 @@ liquipedia.net###sidebar-ad
 
 ! 5/8/2019 - https://www.leo.org
 leo.org###footerWWW
+leo.org##.tf1.p-h.fl-right
 
 ! 5/9/2019 - https://sourceforge.net
 sourceforge.net##li.can-truncate.standard.nel:nth-of-type(1)
