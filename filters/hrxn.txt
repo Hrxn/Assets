@@ -59,6 +59,7 @@ threadreaderapp.com##.sharingfooter
 ! 5/15/2019 - https://www.hltv.org
 hltv.org##body:style(background-color: #e5e7ea !important;)
 hltv.org##.logoCon
+hltv.org##.right2Col > aside:nth-of-type(1)
 
 ! 5/21/2019 - https://chromestatus.com
 chromestatus.com##footer
