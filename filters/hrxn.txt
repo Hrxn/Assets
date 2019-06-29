@@ -76,5 +76,8 @@ prettydiff.com###headline
 ! 6/16/2019 - https://liquipedia.net
 liquipedia.net##[href^="https://store.teamliquid.com/"]
 
+! 6/29/2019 - https://knowyourmeme.com
+knowyourmeme.com###ctoolbar
+
 ! END-OF-LIST
 
