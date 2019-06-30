@@ -42,8 +42,10 @@ duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
 ! 4/28/2019 - https://www.reddit.com
 reddit.com##.premium-banner-outer
 
-! 5/6/2019 - https://liquipedia.net
+! 6/30/2019 - https://liquipedia.net
 liquipedia.net###sidebar-ad
+liquipedia.net##[href^="https://store.teamliquid.com/"]
+||storage.googleapis.com/didna-files/image.jpg$image
 
 ! 5/8/2019 - https://www.leo.org
 leo.org###footerWWW
@@ -72,9 +74,6 @@ vimeo.com##.show.dark.profile.iris_sticky-upsell
 
 ! 6/3/2019 - https://prettydiff.com
 prettydiff.com###headline
-
-! 6/16/2019 - https://liquipedia.net
-liquipedia.net##[href^="https://store.teamliquid.com/"]
 
 ! 6/29/2019 - https://knowyourmeme.com
 knowyourmeme.com###ctoolbar
