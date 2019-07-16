@@ -42,6 +42,9 @@ duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
 ! 4/28/2019 - https://www.reddit.com
 reddit.com##.premium-banner-outer
 
+! 7/16/2019 - https://regexr.com
+regexr.com##.noad
+
 ! 6/30/2019 - https://liquipedia.net
 liquipedia.net###sidebar-ad
 liquipedia.net##[href^="https://store.teamliquid.com/"]
