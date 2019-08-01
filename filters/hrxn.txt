@@ -75,6 +75,9 @@ fandom.com###WikiaBarWrapper
 ! 5/30/2019 - https://vimeo.com
 vimeo.com##.show.dark.profile.iris_sticky-upsell
 
+! 8/1/2019 - https://www.windy.com
+windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
+
 ! 6/3/2019 - https://prettydiff.com
 prettydiff.com###headline
 
