@@ -5,92 +5,92 @@
 ! Issues: https://github.com/Hrxn/assets/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 
-! 1/16/2019 - https://sciurls.com/
+! 01/16/2019 - https://sciurls.com/
 sciurls.com##.announcements.content.columns
 sciurls.com##footer
 
-! 1/16/2019 - https://techurls.com/
+! 01/16/2019 - https://techurls.com/
 techurls.com##.announcements.content.columns
 techurls.com##footer
 
-! 1/16/2019 - https://devurls.com/
+! 01/16/2019 - https://devurls.com/
 devurls.com##.announcements.content.columns
 devurls.com##footer
 
-! 4/4/2019 - https://www.artstation.com
+! 04/04/2019 - https://www.artstation.com
 artstation.com##support-artstation-block
 
-! 4/4/2019 - https://www.deviantart.com
+! 04/04/2019 - https://www.deviantart.com
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
 
-! 4/27/2019 - https://www.tvmaze.com
+! 04/27/2019 - https://www.tvmaze.com
 tvmaze.com##.center.cell.small-3
 tvmaze.com##.center.cell.auto > .cinereus
 tvmaze.com##.cell.small-12 > .cinereus
 tvmaze.com##.blad-300x250
 
-! 4/27/2019 - https://www.werstreamt.es
+! 04/27/2019 - https://www.werstreamt.es
 werstreamt.es##li.ueJf:nth-of-type(1)
 werstreamt.es##.sdfrK
 
-! 4/27/2019 - https://www.duden.de
+! 04/27/2019 - https://www.duden.de
 duden.de##.scene--style_default.scene
 duden.de##.essay--compact.essay
 duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
 
-! 4/28/2019 - https://www.reddit.com
+! 04/28/2019 - https://www.reddit.com
 reddit.com##.premium-banner-outer
 
-! 7/16/2019 - https://regexr.com
+! 07/16/2019 - https://regexr.com
 regexr.com##.noad
 
-! 6/30/2019 - https://liquipedia.net
+! 06/30/2019 - https://liquipedia.net
 liquipedia.net###sidebar-ad
 liquipedia.net##[href^="https://store.teamliquid.com/"]
 ||storage.googleapis.com/didna-files/image.jpg$image
 
-! 5/8/2019 - https://www.leo.org
+! 05/08/2019 - https://www.leo.org
 leo.org###footerWWW
 leo.org##.tf1.p-h.fl-right
 
-! 5/9/2019 - https://sourceforge.net
+! 05/09/2019 - https://sourceforge.net
 sourceforge.net##li.can-truncate.standard.nel:nth-of-type(1)
 sourceforge.net##li.can-truncate.standard.nel:nth-of-type(2)
 
-! 5/10/2019 - https://threadreaderapp.com
+! 05/10/2019 - https://threadreaderapp.com
 threadreaderapp.com##.sharingfooter
 
-! 5/15/2019 - https://www.hltv.org
+! 05/15/2019 - https://www.hltv.org
 hltv.org##body:style(background-color: #e5e7ea !important;)
 hltv.org##.logoCon
 hltv.org##.right2Col > aside:nth-of-type(1)
 
-! 5/21/2019 - https://chromestatus.com
+! 05/21/2019 - https://chromestatus.com
 chromestatus.com##footer
 
-! 5/29/2019 - https://*.fandom.com
+! 05/29/2019 - https://*.fandom.com
 fandom.com###WikiaBarWrapper
 
-! 8/12/2019 - https://stackoverflow.com
+! 08/12/2019 - https://stackoverflow.com
 stackexchange.com###hot-network-questions
 stackoverflow.com###hot-network-questions
 serverfault.com###hot-network-questions
 superuser.com###hot-network-questions
 
-! 5/30/2019 - https://vimeo.com
+! 05/30/2019 - https://vimeo.com
 vimeo.com##.show.dark.profile.iris_sticky-upsell
 
-! 8/1/2019 - https://www.windy.com
+! 08/01/2019 - https://www.windy.com
 windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
 
-! 6/3/2019 - https://prettydiff.com
+! 06/03/2019 - https://prettydiff.com
 prettydiff.com###headline
 
-! 6/29/2019 - https://knowyourmeme.com
+! 06/29/2019 - https://knowyourmeme.com
 knowyourmeme.com###ctoolbar
 
-! 9/7/2019 - https://dict.leo.org
+! 09/07/2019 - https://dict.leo.org
 dict.leo.org##.l-dict-adv
 
 ! END-OF-LIST
