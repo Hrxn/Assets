@@ -90,5 +90,8 @@ prettydiff.com###headline
 ! 6/29/2019 - https://knowyourmeme.com
 knowyourmeme.com###ctoolbar
 
+! 9/7/2019 - https://dict.leo.org
+dict.leo.org##.l-dict-adv
+
 ! END-OF-LIST
 
