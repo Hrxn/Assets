@@ -5,17 +5,15 @@
 ! Issues: https://github.com/Hrxn/assets/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 
-! 01/16/2019 - https://sciurls.com/
+! 09/15/2019 - https://{*}urls.com/
 sciurls.com##.announcements.content.columns
 sciurls.com##footer
-
-! 01/16/2019 - https://techurls.com/
 techurls.com##.announcements.content.columns
 techurls.com##footer
-
-! 01/16/2019 - https://devurls.com/
 devurls.com##.announcements.content.columns
 devurls.com##footer
+finurls.com##.announcements.content.columns
+finurls.com##footer
 
 ! 04/04/2019 - https://www.artstation.com
 artstation.com##support-artstation-block
@@ -50,8 +48,9 @@ liquipedia.net###sidebar-ad
 liquipedia.net##[href^="https://store.teamliquid.com/"]
 ||storage.googleapis.com/didna-files/image.jpg$image
 
-! 05/08/2019 - https://www.leo.org
+! 05/08/2019 - https://*.leo.org
 leo.org###footerWWW
+leo.org##.l-dict-adv
 leo.org##.tf1.p-h.fl-right
 
 ! 05/09/2019 - https://sourceforge.net
@@ -87,11 +86,9 @@ windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
 ! 06/03/2019 - https://prettydiff.com
 prettydiff.com###headline
 
-! 06/29/2019 - https://knowyourmeme.com
+! 09/15/2019 - Bottombar on sites by Complex
 knowyourmeme.com###ctoolbar
-
-! 09/07/2019 - https://dict.leo.org
-dict.leo.org##.l-dict-adv
+allmusic.com###ctoolbar
 
 ! END-OF-LIST
 
