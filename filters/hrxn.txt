@@ -90,5 +90,8 @@ prettydiff.com###headline
 knowyourmeme.com###ctoolbar
 allmusic.com###ctoolbar
 
+! 09/15/2019 - https://*.readthedocs.io
+readthedocs.io##.keep-us-sustainable
+
 ! END-OF-LIST
 
