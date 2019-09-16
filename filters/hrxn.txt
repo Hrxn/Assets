@@ -72,10 +72,14 @@ chromestatus.com##footer
 fandom.com###WikiaBarWrapper
 
 ! 08/12/2019 - https://stackoverflow.com
-stackexchange.com###hot-network-questions
-stackoverflow.com###hot-network-questions
-serverfault.com###hot-network-questions
-superuser.com###hot-network-questions
+stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###js-gdpr-consent-banner
+stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###hot-network-questions
+stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###dfp-mlb
+stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###dfp-tlb
+stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###herobox
+stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##._open.app-banner
+stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.create-team-tooltip
+stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.js-dismissable-hero
 
 ! 05/30/2019 - https://vimeo.com
 vimeo.com##.show.dark.profile.iris_sticky-upsell
