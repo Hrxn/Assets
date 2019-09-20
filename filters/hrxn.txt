@@ -93,6 +93,7 @@ prettydiff.com###headline
 ! 09/15/2019 - Bottombar on sites by Complex
 knowyourmeme.com###ctoolbar
 allmusic.com###ctoolbar
+sidereel.com###ctoolbar
 
 ! 09/15/2019 - https://*.readthedocs.io
 readthedocs.io##.keep-us-sustainable
