@@ -98,5 +98,9 @@ sidereel.com###ctoolbar
 ! 09/15/2019 - https://*.readthedocs.io
 readthedocs.io##.keep-us-sustainable
 
+! 11/04/2019 - https://jsonlint.com
+jsonlint.com##div[class^="bsa-fluid-header"]
+jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
+
 ! END-OF-LIST
 
