@@ -102,5 +102,8 @@ readthedocs.io##.keep-us-sustainable
 jsonlint.com##div[class^="bsa-fluid-header"]
 jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
 
+! 11/15/2019 - https://coub.com
+coub.com##.page__content > div:nth-of-type(1)
+
 ! END-OF-LIST
 
