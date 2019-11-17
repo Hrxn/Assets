@@ -51,6 +51,7 @@ liquipedia.net##[href^="https://store.teamliquid.com/"]
 ! 05/08/2019 - https://*.leo.org
 leo.org###footerWWW
 leo.org##.l-dict-adv
+leo.org##.l-www-adv
 leo.org##.tf1.p-h.fl-right
 
 ! 05/09/2019 - https://sourceforge.net
@@ -104,6 +105,9 @@ jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
 
 ! 11/15/2019 - https://coub.com
 coub.com##.page__content > div:nth-of-type(1)
+
+! 11/17/2019 - https://www.merriam-webster.com
+merriam-webster.com###subscribe-overlay
 
 ! END-OF-LIST
 
