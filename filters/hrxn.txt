@@ -15,8 +15,9 @@ devurls.com##footer
 finurls.com##.announcements.content.columns
 finurls.com##footer
 
-! 04/04/2019 - https://www.artstation.com
+! 11/26/2019 - https://www.artstation.com
 artstation.com##support-artstation-block
+artstation.com##.wrapper-main > div:nth-of-type(2) > div:nth-of-type(3)
 
 ! 04/04/2019 - https://www.deviantart.com
 deviantart.com##.ad-container
