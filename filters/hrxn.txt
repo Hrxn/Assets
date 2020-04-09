@@ -90,6 +90,7 @@ prettydiff.com###headline
 
 ! 09/15/2019 - Bottombar on sites by Complex
 knowyourmeme.com###ctoolbar
+allmovie.com###ctoolbar
 allmusic.com###ctoolbar
 sidereel.com###ctoolbar
 
