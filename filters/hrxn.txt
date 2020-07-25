@@ -15,8 +15,8 @@ devurls.com##footer
 finurls.com##.announcements.content.columns
 finurls.com##footer
 
-! 12/25/2019 - https://www.artstation.com
-artstation.com##.wrapper-main > div:nth-of-type(2) > div:nth-of-type(3)
+! 07/25/2020 - https://www.artstation.com
+artstation.com##.ng-star-inserted.justify-content-center.d-sm-flex.d-none
 artstation.com##community-subscriptions
 artstation.com##hello-world > div
 
