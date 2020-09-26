@@ -34,7 +34,8 @@ tvmaze.com##.blad-300x250
 werstreamt.es##li.ueJf:nth-of-type(1)
 werstreamt.es##.sdfrK
 
-! 04/27/2019 - https://www.duden.de
+! 09/26/2020 - https://www.duden.de
+duden.de###block-teasercontent-right
 duden.de##.scene--style_default.scene
 duden.de##.essay--compact.essay
 duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
