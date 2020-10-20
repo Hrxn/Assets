@@ -51,12 +51,13 @@ liquipedia.net###sidebar-ad
 liquipedia.net##[href^="https://store.teamliquid.com/"]
 ||storage.googleapis.com/didna-files/image.jpg$image
 
-! 07/30/2020 - https://*.leo.org
+! 10/20/2020 - https://*.leo.org
 leo.org###footerWWW
 leo.org##.l-dict-adv
 leo.org##.l-www-adv
 leo.org##.tf1.p-h.fl-right
 leo.org##div:nth-of-type(14)
+leo.org###adv-halfpage
 
 ! 05/09/2019 - https://sourceforge.net
 sourceforge.net##li.can-truncate.standard.nel:nth-of-type(1)
