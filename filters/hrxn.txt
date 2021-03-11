@@ -5,15 +5,9 @@
 ! Issues: https://github.com/Hrxn/assets/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 
-! 09/15/2019 - https://{*}urls.com/
-sciurls.com##.announcements.content.columns
-sciurls.com##footer
-techurls.com##.announcements.content.columns
-techurls.com##footer
-devurls.com##.announcements.content.columns
-devurls.com##footer
-finurls.com##.announcements.content.columns
-finurls.com##footer
+! 03/11/2021 - https://{*}urls.com/
+hwurls.com,finurls.com,devurls.com,techurls.com,sciurls.com,tuxurls.com##.announcements.content.columns
+hwurls.com,finurls.com,devurls.com,techurls.com,sciurls.com,tuxurls.com##footer
 
 ! 07/25/2020 - https://www.artstation.com
 artstation.com##.ng-star-inserted.justify-content-center.d-sm-flex.d-none
