@@ -45,11 +45,12 @@ liquipedia.net###sidebar-ad
 liquipedia.net##[href^="https://store.teamliquid.com/"]
 ||storage.googleapis.com/didna-files/image.jpg$image
 
-! 10/20/2020 - https://*.leo.org
+! 03/20/2021 - https://*.leo.org
 leo.org###footerWWW
 leo.org##.l-dict-adv
 leo.org##.l-www-adv
 leo.org##.tf1.p-h.fl-right
+leo.org##div:nth-of-type(13)
 leo.org##div:nth-of-type(14)
 leo.org###adv-halfpage
 
