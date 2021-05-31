@@ -19,6 +19,7 @@ deviantart.com##.small.ad-container
 tvmaze.com##.center.cell.small-3
 tvmaze.com##.center.cell.auto > .cinereus
 tvmaze.com##.cell.small-12 > .cinereus
+tvmaze.com##.columns.small-12 > .cinereus
 tvmaze.com##.blad-300x250
 
 ! 04/27/2019 - https://www.werstreamt.es
