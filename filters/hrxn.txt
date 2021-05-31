@@ -15,12 +15,10 @@ hwurls.com,finurls.com,devurls.com,techurls.com,sciurls.com,tuxurls.com##footer
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
 
-! 04/27/2019 - https://www.tvmaze.com
-tvmaze.com##.center.cell.small-3
+! 05/31/2021 - https://www.tvmaze.com
 tvmaze.com##.center.cell.auto > .cinereus
 tvmaze.com##.cell.small-12 > .cinereus
 tvmaze.com##.columns.small-12 > .cinereus
-tvmaze.com##.blad-300x250
 
 ! 04/27/2019 - https://www.werstreamt.es
 werstreamt.es##li.ueJf:nth-of-type(1)
