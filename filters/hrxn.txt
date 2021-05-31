@@ -9,7 +9,10 @@
 hwurls.com,finurls.com,devurls.com,techurls.com,sciurls.com,tuxurls.com##.announcements.content.columns
 hwurls.com,finurls.com,devurls.com,techurls.com,sciurls.com,tuxurls.com##footer
 
-! 05/15/2021 - https://www.artstation.com
+! 05/31/2021 - https://www.artstation.com
+artstation.com##.ng-star-inserted.justify-content-center.d-sm-flex.d-none
+artstation.com##digital-product-preview.ng-star-inserted
+artstation.com##.ng-star-inserted.mb5.text-muted.small
 
 ! 04/04/2019 - https://www.deviantart.com
 deviantart.com##.ad-container
