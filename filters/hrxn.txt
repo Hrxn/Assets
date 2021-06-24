@@ -18,11 +18,6 @@ artstation.com##.ng-star-inserted.mb5.text-muted.small
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
 
-! 05/31/2021 - https://www.tvmaze.com
-tvmaze.com##.center.cell.auto > .cinereus
-tvmaze.com##.cell.small-12 > .cinereus
-tvmaze.com##.columns.small-12 > .cinereus
-
 ! 04/27/2019 - https://www.werstreamt.es
 werstreamt.es##li.ueJf:nth-of-type(1)
 werstreamt.es##.sdfrK
@@ -99,3 +94,4 @@ jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
 merriam-webster.com###subscribe-overlay
 
 ! END-OF-LIST
+
