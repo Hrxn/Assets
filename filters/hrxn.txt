@@ -5,41 +5,41 @@
 ! Issues: https://github.com/Hrxn/assets/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 
-! 03/11/2021 - https://{*}urls.com/
+! 2021-03-11 : https://{*}urls.com/
 hwurls.com,finurls.com,devurls.com,techurls.com,sciurls.com,tuxurls.com##.announcements.content.columns
 hwurls.com,finurls.com,devurls.com,techurls.com,sciurls.com,tuxurls.com##footer
 
-! 05/31/2021 - https://www.artstation.com
+! 2021-05-30 : https://www.artstation.com
 artstation.com##.ng-star-inserted.justify-content-center.d-sm-flex.d-none
 artstation.com##digital-product-preview.ng-star-inserted
 artstation.com##.ng-star-inserted.mb5.text-muted.small
 
-! 04/04/2019 - https://www.deviantart.com
+! 219-04-04 : https://www.deviantart.com
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
 
-! 04/27/2019 - https://www.werstreamt.es
+! 2019.04.27 : https://www.werstreamt.es
 werstreamt.es##li.ueJf:nth-of-type(1)
 werstreamt.es##.sdfrK
 
-! 09/26/2020 - https://www.duden.de
+! 2020-09-26 : https://www.duden.de
 duden.de###block-teasercontent-right
 duden.de##.scene--style_default.scene
 duden.de##.essay--compact.essay
 duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
 
-! 04/28/2019 - https://www.reddit.com
+! 2019-04-28 : https://www.reddit.com
 reddit.com##.premium-banner-outer
 
-! 07/16/2019 - https://regexr.com
+! 2019-07-16 : https://regexr.com
 regexr.com##.noad
 
-! 06/30/2019 - https://liquipedia.net
+! 2019-06-30 : https://liquipedia.net
 liquipedia.net###sidebar-ad
 liquipedia.net##[href^="https://store.teamliquid.com/"]
 ||storage.googleapis.com/didna-files/image.jpg$image
 
-! 03/20/2021 - https://*.leo.org
+! 2021-03-20 : https://*.leo.org
 leo.org###footerWWW
 leo.org##.l-dict-adv
 leo.org##.l-www-adv
@@ -48,20 +48,20 @@ leo.org##div:nth-of-type(13)
 leo.org##div:nth-of-type(14)
 leo.org###adv-halfpage
 
-! 05/09/2019 - https://sourceforge.net
+! 2019-05-09 : https://sourceforge.net
 sourceforge.net##li.can-truncate.standard.nel:nth-of-type(1)
 sourceforge.net##li.can-truncate.standard.nel:nth-of-type(2)
 
-! 05/10/2019 - https://threadreaderapp.com
+! 2019-05-10 : https://threadreaderapp.com
 threadreaderapp.com##.sharingfooter
 
-! 05/21/2019 - https://chromestatus.com
+! 2019-05-21 : https://chromestatus.com
 chromestatus.com##footer
 
-! 05/29/2019 - https://*.fandom.com
+! 2019-05-19 : https://*.fandom.com
 fandom.com###WikiaBarWrapper
 
-! 08/12/2019 - https://stackoverflow.com
+! 2019-08-12 : https://stackoverflow.com
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###js-gdpr-consent-banner
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###hot-network-questions
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###dfp-mlb
@@ -71,27 +71,33 @@ stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com#
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.create-team-tooltip
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.js-dismissable-hero
 
-! 05/30/2019 - https://vimeo.com
+! 2019-05-30 : https://vimeo.com
 vimeo.com##.show.dark.profile.iris_sticky-upsell
 
-! 08/01/2019 - https://www.windy.com
+! 2019-08-01 : https://www.windy.com
 windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
 
-! 06/03/2019 - https://prettydiff.com
+! 2019-06-03 : https://prettydiff.com
 prettydiff.com###headline
 
-! 09/15/2019 - Bottombar on sites by Complex
+! 2019-05-19 : Bottombar on sites by Complex
 allmovie.com,allmusic.com,sidereel.com,knowyourmeme.com###ctoolbar
 
-! 09/15/2019 - https://*.readthedocs.io
+! 2019-05-19 : https://*.readthedocs.io
 readthedocs.io##.keep-us-sustainable
 
-! 11/04/2019 - https://jsonlint.com
+! 2019-11-04 : https://jsonlint.com
 jsonlint.com##div[class^="bsa-fluid-header"]
 jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
 
-! 11/17/2019 - https://www.merriam-webster.com
+! 2019-11-17 : https://www.merriam-webster.com
 merriam-webster.com###subscribe-overlay
+
+! 2021-10-07 : https://www.tvmaze.com
+tvmaze.com##.center.cell.auto
+tvmaze.com##.center.show-for-medium.cell.small-3
+tvmaze.com##.columns.small-12 > .cinereus
+tvmaze.com##.cell.small-12 > .cinereus
 
 ! END-OF-LIST
 
