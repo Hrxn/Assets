@@ -30,7 +30,7 @@ allmovie.com,allmusic.com,sidereel.com,knowyourmeme.com###ctoolbar
 
 ! ----- Section 3] : Sites by Base Domain Name
 
-! 2022-07-02 : artstation.com
+! 2022-07-20 : artstation.com
 www.artstation.com##.fade.in.show.modal.signup-modal
 www.artstation.com##.ng-star-inserted.d-sm-block.d-none
 
@@ -41,7 +41,7 @@ chromestatus.com##footer
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
 
-! 2022-03-29 : dotnetfiddle.net
+! 2022-07-20 : dotnetfiddle.net
 dotnetfiddle.net##.container-sponsor
 
 ! 2020-09-26 : duden.de
