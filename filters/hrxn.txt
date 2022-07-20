@@ -5,22 +5,20 @@
 ! Issues: https://github.com/Hrxn/assets/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 
-! 2021-03-11 : https://{*}urls.com/
-hwurls.com,finurls.com,devurls.com,techurls.com,sciurls.com,tuxurls.com##.announcements.content.columns
-hwurls.com,finurls.com,devurls.com,techurls.com,sciurls.com,tuxurls.com##footer
+! 2022-07-20 : https://{*}urls.com/
+techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.logo-by-browserling
+techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.announcements.content.columns
+techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.footer-text
 
-! 2021-05-31 : https://www.artstation.com
-artstation.com##.ng-star-inserted.justify-content-center.d-sm-flex.d-none
-artstation.com##digital-product-preview.ng-star-inserted
-artstation.com##.ng-star-inserted.mb5.text-muted.small
+! 2022-07-02 : https://www.artstation.com
+! site change
 
 ! 219-04-04 : https://www.deviantart.com
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
 
-! 2019-04-27 : https://www.werstreamt.es
-werstreamt.es##li.ueJf:nth-of-type(1)
-werstreamt.es##.sdfrK
+! 2022-07-20 : https://www.werstreamt.es
+! site change
 
 ! 2020-09-26 : https://www.duden.de
 duden.de###block-teasercontent-right
@@ -71,8 +69,8 @@ stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com#
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.create-team-tooltip
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.js-dismissable-hero
 
-! 2019-05-30 : https://vimeo.com
-vimeo.com##.show.dark.profile.iris_sticky-upsell
+! 2022-07-20 : https://vimeo.com
+! site change, test again
 
 ! 2019-08-01 : https://www.windy.com
 windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
@@ -93,11 +91,8 @@ jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
 ! 2019-11-17 : https://www.merriam-webster.com
 merriam-webster.com###subscribe-overlay
 
-! 2021-10-07 : https://www.tvmaze.com
-tvmaze.com##.center.cell.auto
-tvmaze.com##.center.show-for-medium.cell.small-3
-tvmaze.com##.columns.small-12 > .cinereus
-tvmaze.com##.cell.small-12 > .cinereus
+! 2022-07-20 : https://www.tvmaze.com
+! site change
 
 ! END-OF-LIST
 
