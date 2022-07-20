@@ -13,12 +13,14 @@
 ! ---------- ----------------- ----------
 
 ! ----- Section 1] : Sites by Frecency
+
 ! 2022-07-20 : https://{*}urls.com/
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.logo-by-browserling
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.announcements.content.columns
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.footer-text
 
 ! ----- Section 2] : Sites by Site Network
+
 ! 2022-07-20 : Commonly used sites on Stackexchange
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.ps-relative.js-freemium-cta
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.js-consent-banner
@@ -27,8 +29,10 @@ stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com#
 allmovie.com,allmusic.com,sidereel.com,knowyourmeme.com###ctoolbar
 
 ! ----- Section 3] : Sites by Base Domain Name
+
 ! 2022-07-02 : artstation.com
-! site change
+www.artstation.com##.fade.in.show.modal.signup-modal
+www.artstation.com##.ng-star-inserted.d-sm-block.d-none
 
 ! 2019-05-21 : chromestatus.com
 chromestatus.com##footer
@@ -36,16 +40,6 @@ chromestatus.com##footer
 ! 2019-04-04 : deviantart.com
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
-
-! 2022-07-20 : diffchecker.com
-diffchecker.com##body > div > div > div > div:nth-child(2) > div > div > div > div > div > div:nth-child(1)
-diffchecker.com##body > div > div > div > div:nth-child(2) > div > div > div > div > div > div:nth-child(2) > div > form > div:nth-child(2) > div:nth-child(1)
-diffchecker.com##body > div > div > div > div:nth-child(2) > div > div > div > div > div > div:nth-child(2) > div > form > div:nth-child(2) > div:nth-child(2)
-
-! 2022-07-20 : diffnow.com
-diffnow.com##body > div:nth-child(1) > div:nth-child(2) > div:nth-child(1)
-diffnow.com##body > div:nth-child(1) > div:nth-child(2) > div:nth-child(5)
-diffnow.com##body > div:nth-child(1) > div:nth-child(2) > div:nth-child(8)
 
 ! 2022-03-29 : dotnetfiddle.net
 dotnetfiddle.net##.container-sponsor
@@ -59,9 +53,6 @@ duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
 ! 2022-07-20 : doom9.org
 forum.doom9.org##body > table > tbody > tr > td
 forum.doom9.org##form > div > div.smallfont
-
-! 2019-05-19 : fandom.com
-fandom.com###WikiaBarWrapper
 
 ! 2022-07-20 : jsonlint.com
 jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
@@ -106,13 +97,14 @@ sourceforge.net##li.can-truncate.standard.nel:nth-of-type(2)
 threadreaderapp.com##.sharingfooter
 
 ! 2022-07-20 : tvmaze.com
-! site change
+www.tvmaze.com##.center.show-for-medium.cell.small-3
 
 ! 2022-07-20 : vimeo.com
-! site change, test again
+vimeo.com###onetrust-consent-sdk
+vimeo.com##.huuWTP.sc-kafWEX
 
 ! 2022-07-20 : werstreamt.es
-! site change
+www.werstreamt.es##li.ueJf
 
 ! 2019-08-01 : www.windy.com
 windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
