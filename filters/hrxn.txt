@@ -1,7 +1,7 @@
 ! Title: Hrxn Filter List
 ! Expires: 4 Days
 ! Description: Some personal filters for uBO, to be used in conjunction with the default filter lists of uBO.
-! Homepage: https://github.com/Hrxn/assets
+! Homepage: https://github.com/Hrxn/assets/blob/master/filters/hrxn.txt
 ! Issues: https://github.com/Hrxn/assets/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 
@@ -9,42 +9,43 @@
 ! 1] Sites by Frecency
 ! 2] Sites by Site Network
 ! 3] Sites by Base Domain Name
-! 4] Sites by Other Criterion Listed
+! 4] Sites by Other Criterion Filter
 ! ---------- ----------------- ----------
 
 ! ----- Section 1] : Sites by Frecency
-
 ! 2022-07-20 : https://{*}urls.com/
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.logo-by-browserling
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.announcements.content.columns
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.footer-text
 
 ! ----- Section 2] : Sites by Site Network
-
-! 2019-08-12 : Commonly used sites on Stackexchange
-stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###js-gdpr-consent-banner
-stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###hot-network-questions
-stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###dfp-mlb
-stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###dfp-tlb
-stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###herobox
-stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##._open.app-banner
-stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.create-team-tooltip
-stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.js-dismissable-hero
+! 2022-07-20 : Commonly used sites on Stackexchange
+stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.ps-relative.js-freemium-cta
+stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.js-consent-banner
 
 ! 2019-05-19 : Bottombar on sites by Complex
 allmovie.com,allmusic.com,sidereel.com,knowyourmeme.com###ctoolbar
 
 ! ----- Section 3] : Sites by Base Domain Name
-
 ! 2022-07-02 : artstation.com
 ! site change
 
 ! 2019-05-21 : chromestatus.com
 chromestatus.com##footer
 
-! 219-04-04 : deviantart.com
+! 2019-04-04 : deviantart.com
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
+
+! 2022-07-20 : diffchecker.com
+diffchecker.com##body > div > div > div > div:nth-child(2) > div > div > div > div > div > div:nth-child(1)
+diffchecker.com##body > div > div > div > div:nth-child(2) > div > div > div > div > div > div:nth-child(2) > div > form > div:nth-child(2) > div:nth-child(1)
+diffchecker.com##body > div > div > div > div:nth-child(2) > div > div > div > div > div > div:nth-child(2) > div > form > div:nth-child(2) > div:nth-child(2)
+
+! 2022-07-20 : diffnow.com
+diffnow.com##body > div:nth-child(1) > div:nth-child(2) > div:nth-child(1)
+diffnow.com##body > div:nth-child(1) > div:nth-child(2) > div:nth-child(5)
+diffnow.com##body > div:nth-child(1) > div:nth-child(2) > div:nth-child(8)
 
 ! 2022-03-29 : dotnetfiddle.net
 dotnetfiddle.net##.container-sponsor
@@ -116,7 +117,7 @@ threadreaderapp.com##.sharingfooter
 ! 2019-08-01 : www.windy.com
 windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
 
-! ----- Section 4] : Sites by Other Criterion Listed
+! ----- Section 4] : Sites by Other Criterion Filter
 
 ! END-OF-LIST
 
