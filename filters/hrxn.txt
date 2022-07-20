@@ -5,61 +5,23 @@
 ! Issues: https://github.com/Hrxn/assets/issues
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 
+! ---------- Table of Contents ----------
+! 1] Sites by Frecency
+! 2] Sites by Site Network
+! 3] Sites by Base Domain Name
+! 4] Sites by Other Criterion Listed
+! ---------- ----------------- ----------
+
+! ----- Section 1] : Sites by Frecency
+
 ! 2022-07-20 : https://{*}urls.com/
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.logo-by-browserling
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.announcements.content.columns
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.footer-text
 
-! 2022-07-02 : https://www.artstation.com
-! site change
+! ----- Section 2] : Sites by Site Network
 
-! 219-04-04 : https://www.deviantart.com
-deviantart.com##.ad-container
-deviantart.com##.small.ad-container
-
-! 2022-07-20 : https://www.werstreamt.es
-! site change
-
-! 2020-09-26 : https://www.duden.de
-duden.de###block-teasercontent-right
-duden.de##.scene--style_default.scene
-duden.de##.essay--compact.essay
-duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
-
-! 2019-04-28 : https://www.reddit.com
-reddit.com##.premium-banner-outer
-
-! 2019-07-16 : https://regexr.com
-regexr.com##.noad
-
-! 2019-06-30 : https://liquipedia.net
-liquipedia.net###sidebar-ad
-liquipedia.net##[href^="https://store.teamliquid.com/"]
-||storage.googleapis.com/didna-files/image.jpg$image
-
-! 2021-03-20 : https://*.leo.org
-leo.org###footerWWW
-leo.org##.l-dict-adv
-leo.org##.l-www-adv
-leo.org##.tf1.p-h.fl-right
-leo.org##div:nth-of-type(13)
-leo.org##div:nth-of-type(14)
-leo.org###adv-halfpage
-
-! 2019-05-09 : https://sourceforge.net
-sourceforge.net##li.can-truncate.standard.nel:nth-of-type(1)
-sourceforge.net##li.can-truncate.standard.nel:nth-of-type(2)
-
-! 2019-05-10 : https://threadreaderapp.com
-threadreaderapp.com##.sharingfooter
-
-! 2019-05-21 : https://chromestatus.com
-chromestatus.com##footer
-
-! 2019-05-19 : https://*.fandom.com
-fandom.com###WikiaBarWrapper
-
-! 2019-08-12 : https://stackoverflow.com
+! 2019-08-12 : Commonly used sites on Stackexchange
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###js-gdpr-consent-banner
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###hot-network-questions
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com###dfp-mlb
@@ -69,30 +31,92 @@ stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com#
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.create-team-tooltip
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.js-dismissable-hero
 
-! 2022-07-20 : https://vimeo.com
-! site change, test again
-
-! 2019-08-01 : https://www.windy.com
-windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
-
-! 2019-06-03 : https://prettydiff.com
-prettydiff.com###headline
-
 ! 2019-05-19 : Bottombar on sites by Complex
 allmovie.com,allmusic.com,sidereel.com,knowyourmeme.com###ctoolbar
 
-! 2019-05-19 : https://*.readthedocs.io
-readthedocs.io##.keep-us-sustainable
+! ----- Section 3] : Sites by Base Domain Name
 
-! 2019-11-04 : https://jsonlint.com
-jsonlint.com##div[class^="bsa-fluid-header"]
+! 2022-07-02 : artstation.com
+! site change
+
+! 2019-05-21 : chromestatus.com
+chromestatus.com##footer
+
+! 219-04-04 : deviantart.com
+deviantart.com##.ad-container
+deviantart.com##.small.ad-container
+
+! 2022-03-29 : dotnetfiddle.net
+dotnetfiddle.net##.container-sponsor
+
+! 2020-09-26 : duden.de
+duden.de###block-teasercontent-right
+duden.de##.scene--style_default.scene
+duden.de##.essay--compact.essay
+duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
+
+! 2022-07-20 : doom9.org
+forum.doom9.org##body > table > tbody > tr > td
+forum.doom9.org##form > div > div.smallfont
+
+! 2019-05-19 : fandom.com
+fandom.com###WikiaBarWrapper
+
+! 2022-07-20 : jsonlint.com
 jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
+jsonlint.com##.partner
 
-! 2019-11-17 : https://www.merriam-webster.com
+! 2021-03-20 : leo.org
+leo.org###footerWWW
+leo.org##.l-dict-adv
+leo.org##.l-www-adv
+leo.org##.tf1.p-h.fl-right
+leo.org##div:nth-of-type(13)
+leo.org##div:nth-of-type(14)
+leo.org###adv-halfpage
+
+! 2019-06-30 : liquipedia.net
+liquipedia.net###sidebar-ad
+liquipedia.net##[href^="https://store.teamliquid.com/"]
+
+! 2019-11-17 : merriam-webster.com
 merriam-webster.com###subscribe-overlay
 
-! 2022-07-20 : https://www.tvmaze.com
+! 2019-06-03 : prettydiff.com
+prettydiff.com###headline
+
+! 2019-05-19 : readthedocs.io
+readthedocs.io##.keep-us-sustainable
+
+! 2019-04-28 : reddit.com
+reddit.com##.premium-banner-outer
+
+! 2022-07-20 : regex101.com
+regex101.com##:xpath(//html/body/div[1]/div/div[1]/div[2])
+
+! 2019-07-16 : regexr.com
+regexr.com##.noad
+
+! 2019-05-09 : sourceforge.net
+sourceforge.net##li.can-truncate.standard.nel:nth-of-type(1)
+sourceforge.net##li.can-truncate.standard.nel:nth-of-type(2)
+
+! 2019-05-10 : threadreaderapp.com
+threadreaderapp.com##.sharingfooter
+
+! 2022-07-20 : tvmaze.com
 ! site change
+
+! 2022-07-20 : vimeo.com
+! site change, test again
+
+! 2022-07-20 : werstreamt.es
+! site change
+
+! 2019-08-01 : www.windy.com
+windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
+
+! ----- Section 4] : Sites by Other Criterion Listed
 
 ! END-OF-LIST
 
