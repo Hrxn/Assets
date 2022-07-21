@@ -25,9 +25,6 @@ techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurl
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.ps-relative.js-freemium-cta
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.js-consent-banner
 
-! 2019-05-19 : Bottombar on sites by Complex
-allmovie.com,allmusic.com,sidereel.com,knowyourmeme.com###ctoolbar
-
 ! ----- Section 3] : Sites by Base Domain Name
 
 ! 2022-07-20 : artstation.com
