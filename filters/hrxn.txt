@@ -41,7 +41,7 @@ chromestatus.com##footer
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
 
-! 2020-07-21 : diffchecker.com
+! 2022-07-21 : diffchecker.com
 diffchecker.com##[class^="hero_hero__"]
 
 ! 2022-07-20 : dotnetfiddle.net
