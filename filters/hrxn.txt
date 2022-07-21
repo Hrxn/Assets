@@ -43,6 +43,8 @@ deviantart.com##.small.ad-container
 
 ! 2022-07-21 : diffchecker.com
 diffchecker.com##[class^="hero_hero__"]
+diffchecker.com##form > div > div:has(a[href="https://www.diffchecker.com/desktop"]) 
+diffchecker.com##form > div > div:has(a[href="https://www.diffchecker.com/pro-features"])
 
 ! 2022-07-20 : dotnetfiddle.net
 dotnetfiddle.net##.container-sponsor
