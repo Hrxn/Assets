@@ -61,6 +61,9 @@ duden.de##.tabloid__sheet--has-sidebar:style(width: 118% !important;)
 forum.doom9.org##body > table > tbody > tr > td
 forum.doom9.org##form > div > div.smallfont
 
+! 2022-07-29 : filesharingtalk.com
+filesharingtalk.com###ad_global_below_navbar
+
 ! 2022-07-20 : jsonlint.com
 jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
 jsonlint.com##.partner
@@ -96,7 +99,7 @@ reddit.com##.premium-banner-outer
 regex101.com##:xpath(//html/body/div[1]/div/div[1]/div[2])
 
 ! 2019-07-16 : regexr.com
-regexr.com##.noad
+regexr.com##body > div.container > div > aside > div.full.no-search > div.hello
 
 ! 2019-05-09 : sourceforge.net
 sourceforge.net##li.can-truncate.standard.nel:nth-of-type(1)
