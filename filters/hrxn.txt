@@ -65,7 +65,7 @@ forum.doom9.org##form > div > div.smallfont
 jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
 jsonlint.com##.partner
 
-! 2021-03-20 : leo.org
+! 2022-07-29 : leo.org
 leo.org###footerWWW
 leo.org##.l-dict-adv
 leo.org##.l-www-adv
@@ -73,6 +73,8 @@ leo.org##.tf1.p-h.fl-right
 leo.org##div:nth-of-type(13)
 leo.org##div:nth-of-type(14)
 leo.org###adv-halfpage
+leo.org##.ta-c.m-bottom-large.p-top-large
+leo.org##.p-v.gray
 
 ! 2019-06-30 : liquipedia.net
 liquipedia.net###sidebar-ad
