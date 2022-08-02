@@ -99,7 +99,7 @@ reddit.com##.premium-banner-outer
 regex101.com##:xpath(//html/body/div[1]/div/div[1]/div[2])
 
 ! 2019-07-16 : regexr.com
-regexr.com##body > div.container > div > aside > div.full.no-search > div.hello
+regexr.com##.hello
 
 ! 2019-05-09 : sourceforge.net
 sourceforge.net##li.can-truncate.standard.nel:nth-of-type(1)
