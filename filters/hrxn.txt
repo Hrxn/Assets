@@ -27,9 +27,8 @@ stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com#
 
 ! ----- Section 3] : Sites by Base Domain Name
 
-! 2022-07-20 : artstation.com
-www.artstation.com##.fade.in.show.modal.signup-modal
-www.artstation.com##.ng-star-inserted.d-sm-block.d-none
+! 2022-12-10 : artstation.com
+! TODO
 
 ! 2019-05-21 : chromestatus.com
 chromestatus.com##footer
