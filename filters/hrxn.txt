@@ -107,6 +107,9 @@ sourceforge.net##li.can-truncate.standard.nel:nth-of-type(2)
 ! 2022-08-27 : sporcle.com
 sporcle.com###adhesion-promo
 
+! 2023-01-04 : steamdb.info
+steamdb.info##.global-announcement
+
 ! 2022-07-20 : techcrunch.com
 techcrunch.com##.tp-container-inner
 
@@ -123,7 +126,7 @@ vimeo.com##.huuWTP.sc-kafWEX
 ! 2022-07-20 : werstreamt.es
 www.werstreamt.es##li.ueJf
 
-! 2019-08-01 : www.windy.com
+! 2019-08-01 : windy.com
 windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
 
 ! ----- Section 4] : Sites by Other Criterion Filter
