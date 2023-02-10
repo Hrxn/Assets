@@ -88,6 +88,9 @@ merriam-webster.com###subscribe-overlay
 ! 2019-06-03 : prettydiff.com
 prettydiff.com###headline
 
+! 2023-02-10 : ptable.com
+ptable.com###Notice
+
 ! 2019-05-19 : readthedocs.io
 readthedocs.io##.keep-us-sustainable
 
