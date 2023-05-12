@@ -25,7 +25,7 @@ techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurl
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.ps-relative.js-freemium-cta
 stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com##.js-consent-banner
 
-! ----- Section 3] : Sites by Base Domain Name
+! ----- Section 3] : Sites by Domain Name
 
 ! 2022-12-10 : artstation.com
 ! TODO
@@ -119,8 +119,11 @@ techcrunch.com##.tp-container-inner
 ! 2019-05-10 : threadreaderapp.com
 threadreaderapp.com##.sharingfooter
 
-! 2022-07-20 : tvmaze.com
-www.tvmaze.com##.center.show-for-medium.cell.small-3
+! 2023-05-12 : tvmaze.com
+tvmaze.com##.center.cell.auto
+tvmaze.com##.center.show-for-medium.cell.small-3
+tvmaze.com##.cell.small-12 > .cinereus
+tvmaze.com##.columns.small-12 > .cinereus
 
 ! 2022-07-20 : vimeo.com
 vimeo.com###onetrust-consent-sdk
@@ -132,7 +135,7 @@ www.werstreamt.es##li.ueJf
 ! 2019-08-01 : windy.com
 windy.com##.type-undefined.clickable.bg-transparent.article-announce-small
 
-! ----- Section 4] : Sites by Other Criterion Filter
+! ----- Section 4] : Other Sites
 
 ! END-OF-LIST
 
