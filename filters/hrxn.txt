@@ -121,9 +121,10 @@ threadreaderapp.com##.sharingfooter
 
 ! 2023-05-12 : tvmaze.com
 tvmaze.com##.center.cell.auto
-tvmaze.com##.center.show-for-medium.cell.small-3
 tvmaze.com##.cell.small-12 > .cinereus
 tvmaze.com##.columns.small-12 > .cinereus
+tvmaze.com##.center.cell.auto > .cinereus
+tvmaze.com##.center.show-for-medium.cell.small-3
 
 ! 2022-07-20 : vimeo.com
 vimeo.com###onetrust-consent-sdk
