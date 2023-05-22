@@ -14,7 +14,7 @@
 
 ! ----- Section 1] : Sites by Frecency
 
-! 2022-07-20 : https://{*}urls.com/
+! 2023-05-22 : https://{*}urls.com/
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.logo-by-browserling
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.announcements.content.columns
 techurls.com,devurls.com,sciurls.com,finurls.com,mathurls.com,physurls.com,hwurls.com,tuxurls.com##.footer-text
