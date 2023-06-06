@@ -63,6 +63,9 @@ forum.doom9.org##form > div > div.smallfont
 ! 2022-07-29 : filesharingtalk.com
 filesharingtalk.com###ad_global_below_navbar
 
+! 2023-06-06 : heise.de
+heise.de##.theme-heiseplus.xl\:z-\[var\(--z-index-sticky-footer--desktop\)\].z-\[var\(--z-index-sticky-footer\)\].inset-x-0.group-open
+
 ! 2022-07-20 : jsonlint.com
 jsonlint.com##[href^="https://jsonlint.memberful.com/checkout"]
 jsonlint.com##.partner
