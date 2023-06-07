@@ -101,7 +101,7 @@ readthedocs.io##.keep-us-sustainable
 reddit.com##.premium-banner-outer
 reddit.com##.login-required.add.active.option
 
-! 2022-07-20 : regex101.com
+! 2023-06-06 : regex101.com
 regex101.com##:xpath(//html/body/div[1]/div/div[1]/div[2])
 
 ! 2019-07-16 : regexr.com
