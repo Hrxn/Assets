@@ -33,6 +33,9 @@ stackexchange.com,stackoverflow.com,superuser.com,serverfault.com,askubuntu.com#
 ! 2019-05-21 : chromestatus.com
 chromestatus.com##footer
 
+! 2023-07-03 : developer.mozilla.org
+developer.mozilla.org##.fallback.top-banner
+
 ! 2019-04-04 : deviantart.com
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
