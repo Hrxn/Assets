@@ -66,6 +66,10 @@ forum.doom9.org##form > div > div.smallfont
 ! 2022-07-29 : filesharingtalk.com
 filesharingtalk.com###ad_global_below_navbar
 
+! 2023-10-15 : flickr.com
+flickr.com##.upgrade-to-pro-cta > [href^="/account/upgrade/pro"]
+flickr.com##.flat.rail-item
+
 ! 2023-06-06 : heise.de
 heise.de##.theme-heiseplus.xl\:z-\[var\(--z-index-sticky-footer--desktop\)\].z-\[var\(--z-index-sticky-footer\)\].inset-x-0.group-open
 
