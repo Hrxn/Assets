@@ -41,17 +41,20 @@ developer.mozilla.org##.fallback.top-banner
 deviantart.com##.ad-container
 deviantart.com##.small.ad-container
 
-! 2022-07-21 : diffchecker.com
+! 2023-10-15 : diffchecker.com
 diffchecker.com##[class^="hero_hero__"]
 diffchecker.com##form > div > div:has(a[href="https://www.diffchecker.com/desktop"]) 
 diffchecker.com##form > div > div:has(a[href="https://www.diffchecker.com/pro-features"])
+diffchecker.com##.ad-native-single_transparentImage__NAYdC.ad-native-single_allowBreak__wE5sr.ad-native-single_banner__Wnb_g
 
-! 2022-07-21 : diffnow.com
+! 2023-10-15 : diffnow.com
 diffnow.com##:xpath(/html/body/div[1]/div[2]/div[1])
 diffnow.com##:xpath(/html/body/div[1]/div[2]/div[5])
+diffnow.com##:xpath(/html/body/div[1]/div[2]/div[7])
 diffnow.com##:xpath(/html/body/div[1]/div[2]/div[8])
 
-! 2022-07-20 : dotnetfiddle.net
+! 2023-10-15 : dotnetfiddle.net
+dotnetfiddle.net##:xpath(/html/body/div[1]/div[3]/div/form/div[2]/div[1])
 dotnetfiddle.net##.container-sponsor
 
 ! 2020-09-26 : duden.de
